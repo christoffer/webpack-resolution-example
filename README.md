@@ -9,6 +9,7 @@ yarn example
 ```
 browserAdvanced:  browser-advanced replaced
 browserAdvancedInner:  inner-file replaced
+browserAdvancedRemoved:  {}
 browserExisting:  browser-existing replaced
 browserMissing:  browser-missing not replaced
 browserSibling:  browser-sibling not replaced

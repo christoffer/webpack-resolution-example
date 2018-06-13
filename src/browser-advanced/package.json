@@ -1,4 +1,8 @@
 {
     "main": "./main.js",
-    "browser": { "./main.js": "./replaced.js", "./inner/index.js": "./replaced/index.js" }
+    "browser": {
+        "./main.js": "./replaced.js",
+        "./inner/index.js": "./replaced/index.js",
+        "./removed.js": false
+    }
 }
